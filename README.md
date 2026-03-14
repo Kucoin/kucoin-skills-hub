@@ -162,16 +162,15 @@ skills/<skill-name>/
 
 ## Disclaimer
 
-This project is an independent, community-maintained integration and is **not officially affiliated with, endorsed by, or sponsored by KuCoin**. KuCoin is a registered trademark of its respective owner.
+KuCoin Skills Hub and any outputs, information, or analysis generated through it are provided on an "as is" and "as available" basis, without any representation or warranty of any kind. The information made available through KuCoin Skills Hub does not constitute investment, financial, trading, professional, or any other form of advice, and should not be relied upon as such. We do not guarantee the accuracy, timeliness, completeness, or reliability of any data, analysis, information, or output provided through KuCoin Skills Hub.
 
-- **No financial advice.** Nothing in this repository constitutes investment, financial, trading, or any other form of advice. All API data retrieved through these skills is for informational purposes only.
-- **No warranty.** This software is provided "as is", without warranty of any kind, express or implied. The authors and contributors make no representations regarding accuracy, completeness, or fitness for a particular purpose.
-- **API changes.** KuCoin may modify, deprecate, or remove API endpoints at any time without notice. Some endpoints documented here may already be unavailable or return errors.
-- **Use at your own risk.** You are solely responsible for any actions taken based on data retrieved through these skills, including but not limited to trading decisions, financial losses, or security incidents arising from misuse of API credentials.
-- **Security.** Never expose your API Key, Secret, or Passphrase in public repositories, logs, or client-side code. Always follow the security guidelines in each skill's `references/authentication.md`.
-- **Rate limits.** KuCoin enforces API rate limits. Excessive requests may result in temporary or permanent IP/key bans. You are responsible for staying within the allowed limits.
+Investment in digital assets involves a high degree of risk. Before making any investment or trading decision, you should carefully assess your financial circumstances, investment objectives, and risk tolerance, and consult an independent professional adviser prior to making any investment. You acknowledge and agree that you are solely responsible for evaluating any information or output provided through KuCoin Skills Hub and for making your own investment and trading decisions. You are solely responsible for your investment decisions and we will not be liable for any losses you may incur.
 
-By using this project, you agree to these terms and accept all associated risks.
+Your use of KuCoin Skills Hub, and any information or output generated through it, is entirely at your own risk. We shall not be liable for any loss, damage, cost, or expense arising from or in connection with your use of, or reliance on, KuCoin Skills Hub, including any actions taken or not taken based on the information or outputs provided. To the fullest extent permitted by law, we expressly disclaim all liability for any direct, indirect, incidental, consequential, or other damages arising from or related to the use of KuCoin Skills Hub. Any execution errors, system failures, financial losses, or data inaccuracies arising from the use of, or resulting from, KuCoin Skills Hub shall be borne solely by you.
+
+You are responsible for keeping your API keys secure, private, and properly managed, including when you use them with KuCoin Skills Hub and/or provide them to any third-party tools, applications, scripts, AI agents, or code repositories. We will not be responsible for any loss, unauthorized access, unauthorized transactions, asset loss, or other damage arising from your use of API keys with KuCoin Skills Hub, or from API keys that are stolen, exposed, misused, or otherwise improperly used, whether by you or someone else. This includes losses arising from your failure to properly protect, manage, monitor, restrict, or disable your API keys when necessary.
+
+We reserve the right, at our sole discretion, to modify, suspend, or discontinue KuCoin Skills Hub at any time without prior notice. The availability and functionality of KuCoin Skills Hub may also vary depending on region or user profile.
 
 ## License
 

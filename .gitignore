@@ -1,0 +1,23 @@
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+
+# Python virtual environment
+.venv/
+
+# Frontend folder ignores
+.char-frontend/
+chat-frontend/
+
+# Runtime logs and artifacts
+logs/
+
+# Test-related files
+test_*.py
+test_*.sh
+*_test.py
+*_test.sh
+test_results.txt
+terminal_test.txt

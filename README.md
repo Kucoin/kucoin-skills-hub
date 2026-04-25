@@ -20,6 +20,8 @@ npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth --skill 
 
 > **Why `--full-depth`?** The `skills` CLI stops scanning at the first directory level by default. Since each skill lives under `skills/<name>/SKILL.md`, `--full-depth` is required to discover them.
 
+Chinese users can also search and install skills through [Skills宝](https://skilery.com).
+
 ## Available Skills
 
 | Skill | Version | Description |

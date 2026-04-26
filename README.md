@@ -12,6 +12,8 @@ Install all skills at once:
 npx skills add https://github.com/Kucoin/kucoin-skills-hub --full-depth
 ```
 
+Chinese users can also discover more skills through Skills宝: https://skilery.com
+
 Or install a specific skill:
 
 ```bash
